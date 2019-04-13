@@ -2,6 +2,24 @@
 This app helps you to add books from library to your Myreads library, You can choose some of the best books to read. There's three different shelf for your books: read, currently reading and want to read.
 You can move available books in any shelf as your need. You can also perform search for more books to add in your Myreads App.
 
+# Snapshots
+main page:
+
+<img src='https://i.ibb.co/rtQy97B/Screenshot-398.png' alt="main page" width="420" /> 
+
+Search result (if found):
+
+<img src='https://i.ibb.co/b2dtDLK/Screenshot-396.png' alt="search page result" width="420" />
+
+Search result (if not found):
+
+<img src='https://i.ibb.co/nRdc2zY/Screenshot-395.png' alt="search page result" width="420" /> 
+
+Move the book to another category:
+
+<img src='https://i.ibb.co/9yJ4bLB/Screenshot-393.png' alt="search page result" width="420" /> 
+
+
 # How to launch this app locally ?
 1. Fork this project or download it to your pc.
 2. exract it.(if it's avaliable in zip)
@@ -29,4 +47,4 @@ You can move available books in any shelf as your need. You can also perform sea
 * **Chetan Kumar**
 
 ### Acknowledgments
-* ***Special thanks to Udacity and Google India**
+* **Special thanks to Udacity and Google India**
